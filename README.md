@@ -3,7 +3,7 @@ SimpleContact is a straightforward HTML and CSS-based contact page, designed for
 
 ## Steps to Run the Project:
 1. **Clone the repository:**
-Replace `https://github.com/PrachiDRaut1142/BasicContactForm.git` with the actual URL of your repository.
+`https://github.com/PrachiDRaut1142/BasicContactForm.git`.
 2. **Navigate to the project directory:**
 
 3. **Open `index.html` in a web browser:**
